@@ -7,6 +7,7 @@ import '../node_modules/bootstrap/dist/js/bootstrap.bundle'
 import { Provider } from 'react-redux';
 import store from './Store/store'
 import { BrowserRouter } from 'react-router-dom';
+import NewApp from './NewApp';
 
 ReactDOM.render(
   <React.StrictMode>
